@@ -1,0 +1,11 @@
+{
+  "name": "clarity",
+  "version": "1.0.0",
+  "description": "calrity is a minimalistic task manager.",
+  "main": "backend/server.js",
+  "scripts": {
+    "server": "node --watch --env-file=.env backend/server.js"
+  },
+  "author": "asad sharif",
+  "license": "ISC"
+}
